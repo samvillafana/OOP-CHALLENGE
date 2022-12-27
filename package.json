@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "jest"
   },
   "repository": {
@@ -18,7 +19,7 @@
   "homepage": "https://github.com/samvillafana/OOP-CHALLENGE#readme",
   "dependencies": {
     "inquire": "^0.4.8",
-    "inquirer": "^9.1.4"
+    "inquirer": "^8.2.4"
   },
   "devDependencies": {
     "jest": "^29.3.1"
